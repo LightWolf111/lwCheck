@@ -1,0 +1,6 @@
+name: lwCheck
+version: '1.3'
+main: lightwolf.lwcheck.LwCheck
+api-version: '1.16'
+commands:
+  check:
